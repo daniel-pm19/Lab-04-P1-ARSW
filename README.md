@@ -4,7 +4,7 @@
 - Daniel Patiño Mejía
 
 ## Description
-Sample project for the ARSW lab that manages blueprints with a REST service. This fork extends the original project by adding optional persistence in PostgreSQL, uniform API responses, and automated documentation with OpenAPI/Swagger.
+This project manages blueprints with a REST service. It extends the original project by adding optional persistence in PostgreSQL, uniform API responses, and automated documentation with OpenAPI/Swagger.
 
 ## Features
 
@@ -100,6 +100,7 @@ http://localhost:8080/swagger-ui.html
 ## Docker Working Capture
 
 ![Docker Capture](/img/docker.png)
+![Docker Capture2](/img/container.png)
 
 
 
